@@ -1,0 +1,14 @@
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ambientes virtuais
+venv/
+.env/
+
+# Configurações locais
+*.sqlite3
+.DS_Store
